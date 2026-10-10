@@ -54,7 +54,7 @@ Added screenshots of the application interface and memory viewer in a `screensho
 Clone the repository:
 
 ```bash
-git clone https://github.com/tanya-181/AI-interview-prep-coach/blob/main/memory_agent.py
+git clone https://github.com/tanya-181/AI-interview-prep-coach
 cd mem0_live
 ```
 
