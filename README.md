@@ -34,11 +34,11 @@ The project explores how persistent conversational memory can make AI assistants
 
 ## Screenshots
 
-Add screenshots of the application interface and memory viewer in a `screenshots/` folder.
+Added screenshots of the application interface and memory viewer in a `screenshot/` folder.
 
-![AI Interview Prep Coach](screenshots/app-home.png)
+![AI Interview Prep Coach](screenshot/app-home.png)
 
-![Memory Viewer](screenshots/memory-demo.png)
+![Memory Viewer](screenshot/memory-demo.png)
 
 ## Run Locally
 
