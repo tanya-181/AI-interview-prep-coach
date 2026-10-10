@@ -94,4 +94,4 @@ GitHub: https://github.com/tanya-181
 
 ## Project Repository
 
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/tanya-181/AI-interview-prep-coach
